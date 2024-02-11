@@ -1,0 +1,8 @@
+port: 3000
+external_url: https://raw.githubusercontent.com/EvanLi/Github-Ranking/master/Data/github-ranking-
+ttl: 60 * 60 * 24
+default_limit: 10
+
+redis:
+  host: 'localhost'
+  port: 6379
